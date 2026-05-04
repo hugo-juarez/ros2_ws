@@ -1,0 +1,19 @@
+# ROS 2 Build Artifacts
+build/
+install/
+log/
+
+# Python Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local IDE & System Files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.user
+
+# Local configuration/environment files
+.env
